@@ -16,6 +16,7 @@ intptr_t UpdateRoutine(intptr_t a) {
     SetAspectRatio();
     SetFOV(DEFAULT_FOV, DEFAULT_ASPECT_RATIO);
 
+	
     return hbUpdateRoutine(a);
 }
 
