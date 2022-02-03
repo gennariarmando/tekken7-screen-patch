@@ -2,10 +2,11 @@
 A plugin that adds support to more resolutions for TEKKEN7
 
 ### Download
-Grab latest [here](https://ci.appveyor.com/api/projects/gennariarmando/tekken7-screen-patch/artifacts/tekken7-screen-patch.zip).
-The download link contains the latest [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) version.
+Grab latest [here](https://nightly.link/gennariarmando/tekken7-screen-patch/workflows/workflow/master/tekken7-screen-patch.zip).
 
 ### Install
-One step install: Extract the archive contents into your TEKKEN7 directory.
+Get [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader).
+
+Extract the archives content into your TEKKEN7 directory.
 Usually can be found here at this location:
 "C:\Program Files\Steam\steamapps\common\TEKKEN 7\TekkenGame\Binaries\Win64"
